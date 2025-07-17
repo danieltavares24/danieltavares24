@@ -1,5 +1,5 @@
 - 👋 Eu sou Daniel Tavares
-- 👀 Estou imerso no mundo da Ciência de Dados
+- 👀 Estou imerso no mundo da Ciência de Dados e Machine Learning
 - 🌱 Atualmente estou aprendendo (Python, SQL, Machine Learning, Estatística e Power BI)
 - 💞️ Estou procurando colaborar em Projetos que possam gerar insights valiosos 
 - 📫 LinkedIn: https://www.linkedin.com/in/daniel-tavares-3840a0226/
