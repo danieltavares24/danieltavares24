@@ -1,4 +1,4 @@
-# Olá, eu sou o Daniel Tavares! 👋
+# Olá, eu sou o Daniel Tavares! 
 
 ### Engenheiro de Machine Learning | Especialista em IA Industrial | Cientista de Dados
 
@@ -6,7 +6,7 @@ Sou Tecnólogo em Ciência de Dados com foco em transformar dados complexos em s
 
 ---
 
-## 🛠️ Stack Tecnológica
+## Stack Tecnológica
 
 * **Linguagens:** Python (Pandas, NumPy, Scikit-Learn), SQL.
 * **Inteligência Artificial:** Computer Vision (TensorFlow/Keras), NLP, Detecção de Anomalias.
@@ -15,7 +15,7 @@ Sou Tecnólogo em Ciência de Dados com foco em transformar dados complexos em s
 
 ---
 
-## 🚀 Projetos de Destaque
+## Projetos de Destaque
 
 ### 📈 [Previsão de Demanda - Hackathon Big Data](https://github.com/danieltavares24/HACKATHON_FORECAST_BIG_DATA_2025)
 **17º lugar no ranking geral.** Modelo de forecasting utilizando LightGBM para prever vendas em larga escala com tratamento de sazonalidade e engenharia de lags.
