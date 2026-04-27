@@ -47,7 +47,7 @@ Processamento de Linguagem Natural com vetorização TF-IDF para identificação
 
 * **LinkedIn:** [in/daniel-tavares-3840a0226](https://www.linkedin.com/in/daniel-tavares-3840a0226)
 * **Lattes:** [Currículo Lattes](http://lattes.cnpq.br/7749535493164423)
-* **Kaggle:** [danieltavares_20](https://www.kaggle.com/danieltavares_20)
+* **Kaggle:** [danieltavares_20](https://www.kaggle.com/danieltavares25)
 
 ---
 *“Transformando dados em potência industrial.”*
