@@ -1,6 +1,6 @@
 # Olá, eu sou o Daniel Tavares! 
 
-### Engenheiro de Machine Learning | Especialista em IA Industrial | Cientista de Dados
+### Cientista de Dados | Machine Learning | Visão Computacional | Especilizando em IA Industrial
 
 Sou Tecnólogo em Ciência de Dados com foco em transformar dados complexos em soluções inteligentes para o setor industrial. Atualmente, dedico-me à especialização em **IA Industrial pelo SENAI**, focando em Visão Computacional, MLOps e Manutenção Preditiva. Minha trajetória combina uma sólida base em Python e SQL com a experiência prática de quem busca otimizar processos e automatizar a tomada de decisão.
 
