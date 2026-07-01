@@ -1,53 +1,43 @@
-# Olá, eu sou o Daniel Tavares! 
+# Daniel Tavares
 
-### Cientista de Dados | Machine Learning | Visão Computacional | Especilizando em IA Industrial
+Cientista de Dados com foco em Visão Computacional e Machine Learning.
 
-Sou Tecnólogo em Ciência de Dados com foco em transformar dados complexos em soluções inteligentes para o setor industrial. Atualmente, dedico-me à especialização em **IA Industrial pelo SENAI**, focando em Visão Computacional, MLOps e Manutenção Preditiva. Minha trajetória combina uma sólida base em Python e SQL com a experiência prática de quem busca otimizar processos e automatizar a tomada de decisão.
+---
+
+## Sobre
+
+Desenvolvo soluções de Visão Computacional e Machine Learning aplicadas 
+a problemas reais — detecção de objetos, identificação de anomalias visuais 
+e automação de processos baseados em imagem.
+
+Minha abordagem é prática: projetos completos, do treinamento do modelo 
+ao deploy, com código público e resultados mensuráveis.
 
 ---
 
 ## Stack Tecnológica
 
-* **Linguagens:** Python (Pandas, NumPy, Scikit-Learn), SQL.
-* **Inteligência Artificial:** Computer Vision (TensorFlow/Keras), NLP, Detecção de Anomalias.
-* **Engenharia de ML:** MLOps, Deploy com Streamlit, Serialização com Joblib/Pickle.
-* **Domínio Industrial:** Séries Temporais, Manutenção Preditiva e Otimização de Processos.
+- **Visão Computacional:** YOLOv8, OpenCV
+- **Machine Learning:** Scikit-Learn, LightGBM, TensorFlow
+- **Linguagem:** Python
+- **Dados:** Pandas, NumPy, SQL
+- **Deploy:** Streamlit, Gradio, Hugging Face Spaces
 
 ---
 
-## Projetos de Destaque
+## Projetos em Destaque
 
-### 📈 [Previsão de Demanda - Hackathon Big Data](https://github.com/danieltavares24/HACKATHON_FORECAST_BIG_DATA_2025)
-**17º lugar no ranking geral.** Modelo de forecasting utilizando LightGBM para prever vendas em larga escala com tratamento de sazonalidade e engenharia de lags.
-
-### 👁️ [Visão Computacional & Transfer Learning](https://github.com/danieltavares24/IMAGE-CLASSIFICATION-TRANSFER-LEARNING)
-Classificação de imagens utilizando a arquitetura MobileNetV2. Projeto focado em Edge AI para aplicações industriais de baixo custo computacional.
-
-### 🛡️ [Detecção de Fraudes e Anomalias](https://github.com/danieltavares24/DETECCAO_DE_FRAUDES_COM_CARTOES_DE_CREDITO)
-Pipeline completo de classificação para eventos raros com interface em **Streamlit**. Foco em métricas de Precision-Recall e tratamento de dados desbalanceados.
-
-### 📂 [Inteligência de Dados - Desafio Lighthouse](https://github.com/danieltavares24/DESAFIO_LIGHTHOUSE_DADOS_IA)
-Solução end-to-end de Ciência de Dados envolvendo ETL de bases heterogêneas (JSON/CSV), normalização financeira e modelos preditivos.
-
-### ✍️ [NLP - Classificação de Textos](https://github.com/danieltavares24/DETECTOR_DE_FAKE_NEWS)
-Processamento de Linguagem Natural com vetorização TF-IDF para identificação de padrões em textos, aplicável a logs técnicos e relatórios industriais.
+| Projeto | Descrição | Stack |
+|---|---|---|
+| [Detecção de Trincas em Paredes](https://github.com/danieltavares24/deteccao-trincas-paredes-yolov8) | Segmentação de instância com YOLOv8 — mAP@50: 62.3% | YOLOv8, Python |
+| [Detecção de EPIs](https://github.com/danieltavares24/deteccao-epis-yolov8) | Monitoramento de EPIs em tempo real — mAP@50: 96.8% | YOLOv8, Python |
+| [Contador de Parafusos](https://github.com/danieltavares24/contador-parafusos-visao-computacional) | Contagem automatizada para picking industrial | OpenCV, Streamlit |
+| [Detecção de Fraudes](https://github.com/danieltavares24/deteccao-fraudes-cartao-credito) | Classificação com dados desbalanceados | Scikit-Learn, Streamlit |
+| [Hackathon Forecast 2025](https://github.com/danieltavares24/hackathon-forecast-vendas-2025) | 17º lugar — previsão de vendas no varejo | LightGBM, Python |
 
 ---
 
-## 📈 Estatísticas do GitHub
+## Contato
 
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danieltavares24&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieltavares24&layout=compact&langs_count=7&theme=tokyonight" />
-</p>
-
----
-
-## 📫 Vamos nos conectar?
-
-* **LinkedIn:** [in/daniel-tavares-3840a0226](https://www.linkedin.com/in/daniel-tavares-3840a0226)
-* **Lattes:** [Currículo Lattes](http://lattes.cnpq.br/7749535493164423)
-* **Kaggle:** [danieltavares_20](https://www.kaggle.com/danieltavares25)
-
----
-*“Transformando dados em potência industrial.”*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel_Tavares-blue)](https://linkedin.com/in/daniel-tavares-3840a0226)
+[![GitHub](https://img.shields.io/badge/GitHub-danieltavares24-black)](https://github.com/danieltavares24)
