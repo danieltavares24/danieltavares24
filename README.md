@@ -1,6 +1,6 @@
 # Daniel Tavares
 
-Cientista de Dados com foco em Visão Computacional e Machine Learning.
+Cientista de Dados.
 
 ---
 
